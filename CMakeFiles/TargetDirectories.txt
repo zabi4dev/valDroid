@@ -1,0 +1,3 @@
+/home/zabi/code/pg/androidVul/CMakeFiles/valDroid.dir
+/home/zabi/code/pg/androidVul/CMakeFiles/edit_cache.dir
+/home/zabi/code/pg/androidVul/CMakeFiles/rebuild_cache.dir
